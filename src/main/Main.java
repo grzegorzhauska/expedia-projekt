@@ -92,7 +92,7 @@ public class Main {
 		
 		for(CustomRow cs2 : all){
 			if(knn.size() >= 50){
-				CustomRow cs
+//				CustomRow cs
 			}
 		}
 		
